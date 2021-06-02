@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "740748308929",
+    "firebase_url": "https://mydatabaseforlbas.firebaseio.com",
+    "project_id": "mydatabaseforlbas",
+    "storage_bucket": "mydatabaseforlbas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740748308929:android:6a0639a6962efb1e877f40",
+        "android_client_info": {
+          "package_name": "com.codewithali.lbas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740748308929-oo3880j660ices1nrtnu94f30fjq9rcu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codewithali.lbas",
+            "certificate_hash": "62d3fc500a00e94579e25a574f57279572d18949"
+          }
+        },
+        {
+          "client_id": "740748308929-kvli1jaiioirpgbhmmb2s9vtjosvnqc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzbGD0lVi3JaEkBD6GTIiyLZEVCQWSGi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740748308929-kvli1jaiioirpgbhmmb2s9vtjosvnqc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
